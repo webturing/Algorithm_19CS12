@@ -1,4 +1,4 @@
-package week01;
+package lec01basic;
 
 import java.util.Scanner;
 //isXXX hasXXX canXXX =>boolean

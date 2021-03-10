@@ -1,4 +1,4 @@
-package week01;
+package lec01basic;
 
 public class ArrayDemo {
     public static void main(String[] args) {
