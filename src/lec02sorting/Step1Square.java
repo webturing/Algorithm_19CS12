@@ -1,6 +1,6 @@
 package lec02sorting;
 
-public class Square {
+public class Step1Square {
     public static void main(String[] args) {
         int n = 100005;
         long start = System.currentTimeMillis();

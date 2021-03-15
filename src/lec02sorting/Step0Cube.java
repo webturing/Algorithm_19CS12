@@ -1,6 +1,6 @@
 package lec02sorting;
 
-public class Cube {
+public class Step0Cube {
     public static void main(String[] args) {
         int n = 2000;
         long start = System.currentTimeMillis();

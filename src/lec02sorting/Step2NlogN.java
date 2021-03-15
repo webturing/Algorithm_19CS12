@@ -2,7 +2,7 @@ package lec02sorting;
 
 import java.util.Arrays;
 
-public class NlogN {
+public class Step2NlogN {
     public static void main(String[] args) {
         int n = 100005;
         long start = System.currentTimeMillis();

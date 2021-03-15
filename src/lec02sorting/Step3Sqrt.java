@@ -1,6 +1,6 @@
 package lec02sorting;
 
-public class Sqrt {
+public class Step3Sqrt {
     public static void main(String[] args) {
         int n = 1000000005;
         long start = System.currentTimeMillis();
