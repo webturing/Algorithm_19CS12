@@ -2,7 +2,7 @@ package lec03recursion;
 
 import java.util.Arrays;
 
-public class InsertDemo {
+public class InsertSort {
     public static void main(String[] args) {
         int[] a = new int[]{1, 3, 5, 7, 9, 2, 4, 6, 8, 0};
         insertSort(a, 0, a.length - 1);
