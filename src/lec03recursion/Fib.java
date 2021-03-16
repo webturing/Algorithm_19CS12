@@ -7,6 +7,13 @@ public class Fib {
     }
 
     public static void main(String[] args) {
-        System.out.println(f(60));
+        for (int i = 1; i <= 100; i++) {
+            long start = System.currentTimeMillis();
+            f(i);
+            long end = System.currentTimeMillis();
+            System.out.println(String.format("T(%d)=%d ms", i, end - start));
+
+        }
+
     }
 }
