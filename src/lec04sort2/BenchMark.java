@@ -1,7 +1,5 @@
 package lec04sort2;
 
-import lec04sort2.MergeSort3;
-
 public class BenchMark {
     static int N = 20000000;
 
