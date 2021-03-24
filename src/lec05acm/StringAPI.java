@@ -1,4 +1,4 @@
-package lec05api;
+package lec05acm;
 
 public class StringAPI {
     public static void main(String[] args) {

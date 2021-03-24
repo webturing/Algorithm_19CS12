@@ -1,4 +1,4 @@
-package lec05api;
+package lec05acm;
 
 import java.math.BigDecimal;
 import java.util.Scanner;

@@ -1,3 +1,5 @@
+package lec05acm;
+
 import java.io.BufferedInputStream;
 import java.io.PrintWriter;
 import java.math.BigInteger;
